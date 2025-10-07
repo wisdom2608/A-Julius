@@ -37,7 +37,15 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 - ✅ **Ansible** for configuration management and automation  
 - ✅ **GitLab CI** for end-to-end DevOps pipelines  
 - ✅ **Grafana** for monitoring and observability  
-- ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability  
+- ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability
+
+---
+
+📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisdom2608&show_icons=true&theme=radical)
+
+---
 
 💬 **Let's Connect**
 
