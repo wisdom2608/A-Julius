@@ -1,10 +1,10 @@
-# 👋 Hi, I'm A Julius
+# 👋 Hi, I'm Atabong Julius
 
 I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure provisioning and management** using modern cloud-native tools and DevSecOps practices.
 
 ---
 
-## 🚀 About Me
+🚀 **About Me**
 
 - 🌍 I’m currently focused on becoming an **AWS DevOps Engineer**
 - 🧱 I specialize in **Infrastructure Provisioning**, **CI/CD**, and **GitOps**
@@ -13,37 +13,44 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 
 ---
 
-## 🧰 My Toolbox
+🧰 **My Toolbox**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
 ![SAST](https://img.shields.io/badge/-SAST-0052CC?style=flat)
 ![DAST](https://img.shields.io/badge/-DAST-FF6F00?style=flat)
 
 ---
 
-## 🔧 What I Work With
+🔧 **What I Work With**
 
 - ✅ **Docker** for containerizing applications  
 - ✅ **Jenkins Pipelines** for building CI/CD workflows and integrating security scans (SAST/DAST)  
 - ✅ **ArgoCD** as a GitOps tool to automate Kubernetes deployments  
-- ✅ **Kubernetes clusters** to run scalable, containerized workloads  
-- ✅ Working toward mastering **Terraform**, **Ansible**, and **AWS CDK**
+- ✅ **Terraform** for Infrastructure as Code (IaC)  
+- ✅ **Ansible** for configuration management and automation  
+- ✅ **GitLab CI** for end-to-end DevOps pipelines  
+- ✅ **Grafana** for monitoring and observability  
+- ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability  
 
 ---
 
-## 📈 GitHub Stats
+📈 **GitHub Stats**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtabongJulius&show_icons=true&theme=radical)
 
 ---
 
-## 💬 Let's Connect
+💬 **Let's Connect**
 
 Feel free to reach out if you'd like to collaborate, connect, or discuss DevOps topics!
 
