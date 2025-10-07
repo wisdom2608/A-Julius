@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Atabong Julius
+ **Hi, I'm A Julius**
 
 I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure provisioning and management** using modern cloud-native tools and DevSecOps practices.
 
@@ -6,7 +6,7 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 
 🚀 **About Me**
 
-- 🌍 I’m currently focused on becoming an **AWS DevOps Engineer**
+- 🌍 I’m currently a **AWS DevOps Engineer**
 - 🧱 I specialize in **Infrastructure Provisioning**, **CI/CD**, and **GitOps**
 - 🛠️ Passionate about **automation**, **security**, and **scalable deployments**
 - 📚 Always learning and improving through real-world practice and experimentation
@@ -54,4 +54,4 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 
 Feel free to reach out if you'd like to collaborate, connect, or discuss DevOps topics!
 
-> “Automation is to DevOps what oxygen is to life.” – Me 😄
+> “Automation is to DevOps as Oxygen is to Life.” – Me 🌹❤️😆
