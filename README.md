@@ -25,9 +25,6 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
-![SAST](https://img.shields.io/badge/-SAST-0052CC?style=flat)
-![DAST](https://img.shields.io/badge/-DAST-FF6F00?style=flat)
 
 ---
 
