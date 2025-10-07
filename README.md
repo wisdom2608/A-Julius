@@ -1,4 +1,4 @@
- **Hi, I'm Atabong Julius**
+ **Hi, I'm Julius**
 
 I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure provisioning and management** using modern cloud-native tools and DevSecOps practices.
 
@@ -41,14 +41,6 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 - ✅ **GitLab CI** for end-to-end DevOps pipelines  
 - ✅ **Grafana** for monitoring and observability  
 - ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability  
-
----
-
-📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisdom2608&show_icons=true&theme=radical)
-
----
 
 💬 **Let's Connect**
 
