@@ -1,4 +1,4 @@
- **Hi, I'm A Julius**
+ **Hi, I'm Atabong Julius**
 
 I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure provisioning and management** using modern cloud-native tools and DevSecOps practices.
 
