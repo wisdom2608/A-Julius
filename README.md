@@ -46,7 +46,7 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 
 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtabongJulius&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisdom2608&show_icons=true&theme=radical)
 
 ---
 
