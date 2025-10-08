@@ -34,7 +34,7 @@ I love solving problems, collaborating with teams to move from manual processes 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git Bash](https://img.shields.io/badge/-Git%20Bash-000000?style=flat&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
