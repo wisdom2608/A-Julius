@@ -13,7 +13,7 @@ I specialize in:
 
 I strive to create resilient systems (pipelines) that enable faster, safer software delivery.
 
-I love solving problems, collaborate with teams to move from manual processes to fully automated workflows.
+I love solving problems, collaborating with teams to move from manual processes to fully automated workflows.
 
 ---
 
