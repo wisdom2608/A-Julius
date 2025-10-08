@@ -13,7 +13,7 @@ I specialize in:
 
 I strive to create resilient systems (pipelines) that enable faster, safer software delivery.
 
-Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and working on **DrvSecOps** projects.
+Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and working on **DevSecOps** projects.
 
 I love solving problems, collaborating with teams to move from manual processes to fully automated workflows.
 
