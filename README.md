@@ -1,19 +1,18 @@
- **Hi, I'm Julius**
-
-I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure provisioning and management** using modern cloud-native tools and DevSecOps practices.
-
 ---
 
 🚀 **About Me**
 
-- 🌍 I’m currently a **AWS DevOps Engineer**
-- 🧱 I specialize in **Infrastructure Provisioning**, **CI/CD**, and **GitOps**
-- 🛠️ Passionate about **automation**, **security**, and **scalable deployments**
-- 📚 Always learning and improving through real-world practice and experimentation
+- I'm an **AWS DevOps Engineer** from *Buea, Cameroon*.
+
+- Use Terraform as an IaC tool to define resources in human-readable configuration files that you can version, reuse, and share.
+
+- Specialize in **Infrastructure Provisioning**
+
+- Passionate about **automation**, **security**, and **scalable deployments**, **CI/CD**, and **GitOps**
 
 ---
 
-🧰 **My Toolbox**
+🧰 **Skills**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
