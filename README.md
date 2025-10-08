@@ -1,4 +1,3 @@
----
 
 🚀 **About Me**
 
@@ -16,7 +15,6 @@ With a strong foundation in **automation**, **DevSecOps**, and **continuous deli
 Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and **security integration** in CI/CD workflows using tools like **SAST** and **DAST**.
 
 I love solving problems, optimizing cloud environments, and helping teams move from manual processes to fully automated workflows.
----
 
 🧰 **Skills**
 
