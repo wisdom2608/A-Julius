@@ -11,7 +11,7 @@ With focus on building robust, scalable, secure, and automated infrastructure in
 I specialize in:
 - **Infrastructure as Code (IaC)** using **Terraform**
 
-Have a strong foundation in **automation**, **DevSecOps**, and **continuous delivery**, I strive to create resilient systems that enable faster, safer software delivery.
+I strive to create resilient systems (pipelines) that enable faster, safer software delivery.
 
 I love solving problems, collaborate with teams to move from manual processes to fully automated workflows.
 
@@ -37,7 +37,8 @@ I love solving problems, collaborate with teams to move from manual processes to
 
 - ✅ **Docker** for containerizing applications  
 - ✅ **Jenkins Pipelines** for building CI/CD workflows and integrating security scans (SAST/DAST)  
-- ✅ **ArgoCD** as a GitOps tool to automate Kubernetes deployments  
+- ✅ **ArgoCD** as a GitOps tool to automate Kubernetes deployments
+- ✅ **GitHub Actions** for automating workflows directly in GitHub  
 - ✅ **Terraform** for Infrastructure as Code (IaC)  
 - ✅ **Ansible** for configuration management and automation  
 - ✅ **GitLab CI** for end-to-end DevOps pipelines  
