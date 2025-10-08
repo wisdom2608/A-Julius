@@ -60,4 +60,4 @@ I love solving problems, collaborating with teams to move from manual processes 
 ---
 Feel free to reach out if you'd like to collaborate, connect, or discuss DevOps topics!
 
-> ““Automation is to DevOps as Oxygen is to Life.” – Me 🌹❤️
+> ““Automation is to DevOps as Oxygen is to Life.” – Me 🌹❤️😀
