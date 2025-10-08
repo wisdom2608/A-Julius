@@ -2,14 +2,20 @@
 
 🚀 **About Me**
 
-- I'm an **AWS DevOps Engineer** from *Buea, Cameroon*.
+I'm a passionate and detail-oriented **AWS DevOps Engineer** based in *Buea, Cameroon*, with a focus on building scalable, secure, and automated infrastructure in the cloud.
 
-- Use Terraform as an IaC tool to define resources in human-readable configuration files that you can version, reuse, and share.
+I specialize in:
+- **Infrastructure as Code (IaC)** using **Terraform**
+- **CI/CD pipelines** with Jenkins, GitHub and GitLab
+- **Cloud-native deployments** using Docker and Kubernetes
+- **GitOps practices** with ArgoCD
+- **Monitoring and observability** with tools like Grafana
 
-- Specialize in **Infrastructure Provisioning**
+With a strong foundation in **automation**, **DevSecOps**, and **continuous delivery**, I strive to create resilient systems that enable faster, safer software delivery.
 
-- Passionate about **automation**, **security**, and **scalable deployments**, **CI/CD**, and **GitOps**
+Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and **security integration** in CI/CD workflows using tools like **SAST** and **DAST**.
 
+I love solving problems, optimizing cloud environments, and helping teams move from manual processes to fully automated workflows.
 ---
 
 🧰 **Skills**
