@@ -1,10 +1,10 @@
-👋 *Hi, I'm Atabong Julius*
+👋 *Hi, I'm Julius*
 
 ---
 
 🚀 **About Me**
 
-I'm a passionate and detail-oriented **AWS DevOps Engineer** based in **Buea, Cameroon**, with a focus on building scalable, secure, and automated infrastructure in the cloud.
+I'm a passionate and detail-oriented **AWS DevOps Engineer** based in *Buea, Cameroon*, with a focus on building scalable, secure, and automated infrastructure in the cloud.
 
 I specialize in:
 - **Infrastructure as Code (IaC)** using **Terraform**
@@ -51,7 +51,7 @@ I love solving problems, optimizing cloud environments, and helping teams move f
 
 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtabongJulius&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisdom2608&show_icons=true&theme=radical)
 
 ---
 
