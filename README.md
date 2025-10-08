@@ -40,13 +40,14 @@ I love solving problems, collaborating with teams to move from manual processes 
 
 - ✅ **Docker** for containerizing applications  
 - ✅ **Jenkins Pipelines** for building CI/CD workflows and integrating security scans (SAST/DAST)  
-- ✅ **ArgoCD** as a GitOps tool to automate Kubernetes deployments
+- ✅ **ArgoCD** as a GitOps tool to automate Kubernetes deployments  
 - ✅ **GitHub Actions** for automating workflows directly in GitHub  
 - ✅ **Terraform** for Infrastructure as Code (IaC)  
 - ✅ **Ansible** for configuration management and automation  
 - ✅ **GitLab CI** for end-to-end DevOps pipelines  
+- ✅ **Prometheus** for metrics collection and alerting  
 - ✅ **Grafana** for monitoring and observability  
-- ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability  
+- ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability
 
 ---
 
