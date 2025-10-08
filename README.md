@@ -1,4 +1,5 @@
-
+**Hi, I'am Julius**
+---
 🚀 **About Me**
 
 I'm a passionate and detail-oriented **AWS DevOps Engineer** based in *Buea, Cameroon*, with a focus on building scalable, secure, and automated infrastructure in the cloud.
@@ -14,8 +15,10 @@ With a strong foundation in **automation**, **DevSecOps**, and **continuous deli
 
 Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and **security integration** in CI/CD workflows using tools like **SAST** and **DAST**.
 
-I love solving problems, optimizing cloud environments, and helping teams move from manual processes to fully automated workflows.
+I love solving problems, optimizing cloud environments, and helping teams move from manual processes to fully automated workflows
+---
 
+---
 🧰 **Skills**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
