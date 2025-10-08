@@ -48,7 +48,7 @@ I'm an aspiring **AWS DevOps Engineer** with a strong focus on **infrastructure 
 ---
 
 💬 **Let's Connect**
-[![Email](https://img.shields.io/badge/-mueatech087@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mueatech087@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mueatech087@gmail.com)
 
 Feel free to reach out if you'd like to collaborate, connect, or discuss DevOps topics!
 
