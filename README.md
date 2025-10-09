@@ -35,6 +35,8 @@ I love solving problems, collaborating with teams to move from manual processes 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/-Trivy-0F172A?style=flat&logo=aqua&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
