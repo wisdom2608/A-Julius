@@ -41,9 +41,11 @@ I love solving problems, collaborating with teams to move from manual processes 
 ---
 **What I Work With**
 
-✅ **Cloud & Infrastructure**
+✅ **Cloud**
 
 •	 **AWS** (Amazon Web Services): A leading cloud platform offering a wide range of services like computing power, storage, networking, and databases for deploying and managing applications.
+
+⚙️ **Infrastructure**
 
 •	 **Terraform**: Infrastructure as Code (IaC) tool used to provision and manage cloud infrastructure using configuration files.
 
