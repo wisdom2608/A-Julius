@@ -39,26 +39,16 @@ I love solving problems, collaborating with teams to move from manual processes 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
--
-🔧 **What I Work With**
 
+🔧 **What I Work With**
 	•	 **AWS (Amazon Web Services)**: A leading cloud platform offering a wide range of services like computing power, storage, networking, and databases for deploying and managing applications.
-  
 	•	 **Terraform**: Infrastructure as Code (IaC) tool used to provision and manage cloud infrastructure using configuration files.
-  
 	•	 **Ansible**: Automation tool for configuration management, application deployment, and task automation across systems.
 
 **Containers & Orchestration**
-
----
--
 	•	 **Docker**: Containerization platform used to package applications and dependencies into lightweight, portable containers.
-  
 	•	 Kubernetes: Container orchestration platform for automating deployment, scaling, and management of containerized applications.
-  
-	•	 ArgoCD: GitOps-based continuous delivery tool for Kubernetes that manages application deployment using Git repositories as the source of truth.
-  
----
+	•	 **ArgoCD**: GitOps-based continuous delivery tool for Kubernetes that manages application deployment using Git repositories as the source of truth.
 
 **CI/CD & Automation**
 	•	 Jenkins: Open-source automation server used to build, test, and deploy software through continuous integration and delivery pipelines.
