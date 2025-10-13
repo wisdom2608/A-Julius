@@ -41,13 +41,15 @@ I love solving problems, collaborating with teams to move from manual processes 
 ---
 **What I Work With**
 
-•	 AWS (Amazon Web Services): A leading cloud platform offering a wide range of services like computing power, storage, networking, and databases for deploying and managing applications.
+✅ **Cloud & Infrastructure**
+
+•	 **AWS** (Amazon Web Services): A leading cloud platform offering a wide range of services like computing power, storage, networking, and databases for deploying and managing applications.
 
 •	 **Terraform**: Infrastructure as Code (IaC) tool used to provision and manage cloud infrastructure using configuration files.
 
 •	 **Ansible**: Automation tool for configuration management, application deployment, and task automation across systems.
 
-**Containers & Orchestration**
+🐳 **Containers & Orchestration**
 
 •	 **Docker**: Containerization platform used to package applications and dependencies into lightweight, portable containers.
 
@@ -55,7 +57,7 @@ I love solving problems, collaborating with teams to move from manual processes 
 
 •	 **ArgoCD**: GitOps-based continuous delivery tool for Kubernetes that manages application deployment using Git repositories as the source of truth.
 
-**CI/CD & Automation**
+🔄 **CI/CD & Automation**
 
 •	 **Jenkins**: Open-source automation server used to build, test, and deploy software through continuous integration and delivery pipelines.
 
@@ -63,11 +65,11 @@ I love solving problems, collaborating with teams to move from manual processes 
 
 •    **GitLab CICD**: CI/CD platform integrated with GitLab for automating workfloes like end-to-end CI/CD pipeline
 
-**Version Control & Collaboration**
+🧰 **Version Control & Collaboration**
 
 •	 **GitHub**, and **GitLab**: Cloud-based platform for hosting Git repositories, collaboration, code review, and project management.
 
-**Monitoring & Observability**
+📊 **Monitoring & Observability**
 
 •	 **Grafana**: Visualization and analytics tool for monitoring metrics from various data sources like *Prometheus*, *InfluxDB*, and *Elasticsearch*.
 
@@ -77,11 +79,11 @@ I love solving problems, collaborating with teams to move from manual processes 
 
 •	 **Trivy**: Security scanner for containers, file systems, and Git repositories, detecting vulnerabilities, misconfigurations, and secrets.
 
-**Development Tools**
+🛠️ **Development Tools**
 
 •	 **Visual Studio Code**: Popular lightweight code editor with support for debugging, version control, and a wide variety of extensions.
 
-**Databases**
+🗄️ **Databases**
 
 •	 **MySQL**: Open-source relational database management system known for speed and reliability, widely used in web applications.
 
