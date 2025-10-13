@@ -18,7 +18,6 @@ Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and
 I love solving problems, collaborating with teams to move from manual processes to fully automated workflows.
 
 ---
-
 🧰 **Skills**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -28,6 +27,7 @@ I love solving problems, collaborating with teams to move from manual processes 
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
@@ -39,20 +39,50 @@ I love solving problems, collaborating with teams to move from manual processes 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
-
+-
 🔧 **What I Work With**
 
-- ✅ **Docker** for containerizing applications  
-- ✅ **Jenkins Pipelines** for building CI/CD workflows and integrating security scans (SAST/DAST)  
-- ✅ **ArgoCD** as a GitOps tool to automate Kubernetes deployments  
-- ✅ **GitHub Actions** for automating workflows directly in GitHub  
-- ✅ **Terraform** for Infrastructure as Code (IaC)  
-- ✅ **Ansible** for configuration management and automation  
-- ✅ **GitLab CI** for end-to-end DevOps pipelines  
-- ✅ **Prometheus** for metrics collection and alerting  
-- ✅ **Grafana** for monitoring and observability  
-- ✅ Deploying apps to **Kubernetes clusters** for production-grade reliability
+	•	 **AWS (Amazon Web Services)**: A leading cloud platform offering a wide range of services like computing power, storage, networking, and databases for deploying and managing applications.
+  
+	•	 **Terraform**: Infrastructure as Code (IaC) tool used to provision and manage cloud infrastructure using configuration files.
+  
+	•	 **Ansible**: Automation tool for configuration management, application deployment, and task automation across systems.
 
+**Containers & Orchestration**
+
+---
+-
+	•	 **Docker**: Containerization platform used to package applications and dependencies into lightweight, portable containers.
+  
+	•	 Kubernetes: Container orchestration platform for automating deployment, scaling, and management of containerized applications.
+  
+	•	 ArgoCD: GitOps-based continuous delivery tool for Kubernetes that manages application deployment using Git repositories as the source of truth.
+  
+---
+
+**CI/CD & Automation**
+	•	 Jenkins: Open-source automation server used to build, test, and deploy software through continuous integration and delivery pipelines.
+
+  •	 **GitHub Actions**: CI/CD platform integrated with GitHub for automating workflows like testing, building, and deploying code directly from your repositories.
+	•	 GitLab: A DevOps platform that combines source code management (SCM), CI/CD, and monitoring into a single application.
+
+**Version Control & Collaboration**
+	
+  •	 **GitHub**: Cloud-based platform for hosting Git repositories, collaboration, code review, and project management.
+
+**Monitoring & Observability**
+	•	 **Grafana**: Visualization and analytics tool for monitoring metrics from various data sources like Prometheus, InfluxDB, and Elasticsearch.
+	•	 **Prometheus**: Monitoring and alerting toolkit, particularly well-suited for dynamic cloud environments and Kubernetes.
+	•	 **SonarQube**: Tool for continuous inspection of code quality to detect bugs, vulnerabilities, and code smells in your codebase.
+	•	 **Trivy**: Security scanner for containers, file systems, and Git repositories, detecting vulnerabilities, misconfigurations, and secrets.
+
+**Development Tools**
+	•	 **Visual Studio Code**: Popular lightweight code editor with support for debugging, version control, and a wide variety of extensions.
+
+**Databases**
+	•	 **MySQL**: Open-source relational database management system known for speed and reliability, widely used in web applications.
+	•	 **PostgreSQL**: Advanced open-source relational database system known for robustness, extensibility, and compliance with SQL standards.
+  
 ---
 
 📈 **GitHub Stats**
