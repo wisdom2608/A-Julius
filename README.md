@@ -11,7 +11,7 @@ With focus on building robust, scalable, secure, and automated infrastructure fo
 I specialize in:
 - **Infrastructure as Code (IaC)** using **Terraform**
 
-I strive to create resilient systems (pipelines) that enable faster, safer software delivery.
+I strive to create resilient systems that enable faster, safer software delivery.
 
 Currently, I’m advancing my expertise in **AWS services**, **Kubernetes**, and working on **DevSecOps** projects.
 
