@@ -4,7 +4,7 @@
 
 🚀 **About Me**
 
-I'm a passionate **AWS DevOps Engineer** based in *Buea, Cameroon*.
+I'm a passionate **DevOps Engineer** based in *Buea, Cameroon*.
 
 With focus on building robust, scalable, secure, and automated infrastructure for web applications.
 
